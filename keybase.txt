@@ -24,9 +24,9 @@ To claim this, I am signing this object:
             "username": "tsuyoshicho"
         },
         "merkle_root": {
-            "ctime": 1406808996,
-            "hash": "3ec4811afca841d6eb1a424f9acb736f3ab5238b9184d85f0ed0d897ed0291d6cf6b403c1d938d63d433c6483ad79b6ee9081d4c3aa6df9d963763bed2db189e",
-            "seqno": 32105
+            "ctime": 1406814025,
+            "hash": "700971f0346be6f75738bb6ebe2de15a2365159d94a7941071b92f93183b2e9052ca8f8df3d3929146c488a17c8bd2af4d597c2d4ae49a02fda3c2d29731a407",
+            "seqno": 32108
         },
         "service": {
             "hostname": "tsuyoshicho.github.io",
@@ -35,10 +35,10 @@ To claim this, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1406812954,
+    "ctime": 1406814167,
     "expire_in": 157680000,
-    "prev": "76f0440d8879b1edb21f8ff3fcce72aebb1dd91a86a61fa8dca0fdf288175e24",
-    "seqno": 10,
+    "prev": "2367671ccc6148faced2a3389b727b903665e5869cb494d754604870a221ffcc",
+    "seqno": 11,
     "tag": "signature"
 }
 
@@ -48,22 +48,22 @@ with the aforementioned key, yielding the PGP signature:
 Version: GnuPG v2.0.22 (MingW32)
 Comment: GnuPG Windows Naitive/Cygwin
 
-owNCWmg2MUFZJlNZE5Z+tQABff///zNgYVRFf/A/4Qilv///6pdAyWQxUBAOhgow
-FQRjUMbAAg5i2MYNUyU/Smh6T0jag0DRptTIAehAGmT1GR6gAAADaT0jR4BQiqf6
-Gkwm1MUm0kbSDEYgGBNA08oMjI0whiBiA00DINMcAAAAA0AAAAAaDQAAAAMgDQAB
-qYpkAJlT9KeINTGIGkGTATCDAm0CMAh6mmJg0TTQES6Mheq2rOeyilXnRkkkyjrs
-pnmrIp79TOWUPEyifIXp6AOqnrbY4dN5bhqgIOA9lZNHtK84IgUBggRkoGRAlApM
-Nxtq1v725PyaSEVyajoc6AMSCAVyQRMMy9VIOWAsxmra9pWCW2fcb5HVo5udSCrw
-TE498YJcSDqWD63tdUt1yw+c6mXXoGlBuas1RjSZQciRMfOUQN9iUDpWiEFxamhh
-0hGFIPB0xc9zDEoH3iUsKGQYsULmT1IIynJxHUERUwxUaKEFJAxbj4baSD9xxuvE
-TDfjBOThEaaH5lUFVyUoSzpvfliFKk+lF73CQ8S0x2rXHpJVIMVTGv1CS7QslTCJ
-LQLEQVnHXA0yu+OTGQRTGBpVG2yYDL0856cYCQ6zAcPYgLRDzPyBBILeDWIjTfSE
-J0RQEVUchr2kcpWkt2rz1CEvZ0wqgZCJZ1PtvbORZt3tpl8EQkPduAgKr+6AbLbb
-xrC0q2Uk2sBMyoRXWTzwCHNrsEIQBCq08VheVaYcYGriXx20SmxdXCdUYDKlOUT1
-TBizI2Tnlq+grVUIlURQDZzQrD16GxCiWYkJ58UnZggomahg2UmDocJtIQj4MPiQ
-UUNcMgWtixI6ZkhLEZh4FaS3ICINmonCUUZBBQ7PCDzbse8K7TlnkrBlimw6KBjJ
-h6LS/W32oLFR4NBxsduZz5f20/duPB+BiCGUv/i7kinChICcs/Wo
-=jS6m
+owNCWmg2MUFZJlNZf7JdfwABgH///zJqw3Cl//gvmAgFv////oNk+OhBEHKIgFow
+OUohUANAAg6wpiwaiamU8Uek9R6jIxBoPUADTQAA9Rk00yNNA9Q0AyG01ND1GxQi
+nppoE2piT1BTQBp6gANABoAAAAAGgAAA0DgAAAAAAAADIaAAAAAAAAAABqZKbRNT
+aI9TzUnqaZA0yAAAGgAGgAAAGgAAARbPQiyZk6m2oroqwYKxw7Wbgx40KlKtDenz
+ajmWYb0k0ahL1ASeajnCfqT2GjQ4QaB7bBQj3UX4IgUQwQIyQDIgSAWEypL67K23
+qmKWOcQ5NowG5DUUGYV2AEColYUu0+WhKlHHQCJGKlxpL1Y84+W0LX5vN0sxAbpF
+pKufgddzOlUsOGyae5bWHbAbawo9whPEFMhsc1TpGkIuIRWxyMx9jFjsWip0xSQ5
+MVS9ISmRDF9MantCEIXATREzVDXsS7p0aUIKFAq+4Rihvm0io0b3UETK69kjsGw0
+CRxVS1DtaSSR5OnJzmpYSSUZUgJklIQWwRtzyztNizp/gbTmy8WZ1tD1jSCiNfRF
+YUI0VURL9DUapbc7dWIGarR0MsY3OplngqFQVl8OWJI+pLKscS0x+IMgh20zhAgM
+2wngjNcwwrlBGYMheSzyiF2htAzAnfG8kc7P8+Yuqw4IpYmKDDcFcB580qCITy0r
+qHXzNlJSDhuSGiun3flRiODRNWJolzJIaUIUpbsiMhkVUlPvGAVWVLoWh8KYMjVR
+tsIoCZLSRIgEcMm84wG68MhxKdyKkm6IQQ3gkUxmgUDpQ0GRYUQKAKCAfugZFqYl
+AM2mFIKUJCYSUFocFWivTCATCPjS2SDywkwuUJVa3DlejVon9ZDvwM5+u8HxVbd2
+mFvuv++DzwXDgcYDMex/WH33xIoj/F3JFOFCQf7Jdfw=
+=q/k7
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
