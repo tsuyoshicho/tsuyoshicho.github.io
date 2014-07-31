@@ -6,5 +6,5 @@ My Repos Link
 
 My other resource
 -----------------
-* [keybase](http://tsuyoshicho.github.io/.well-known/keybase.txt)
+* [keybase](http://tsuyoshicho.github.io/keybase.txt)
 
