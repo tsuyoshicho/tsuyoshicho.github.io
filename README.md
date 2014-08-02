@@ -1,3 +1,5 @@
+[![Gitter chat](https://badges.gitter.im/tsuyoshicho/tsuyoshicho.github.com.png)](https://gitter.im/tsuyoshicho/tsuyoshicho.github.com)
+
 My Repos Link
 -------------
 
