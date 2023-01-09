@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tsuyoshicho
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tsuyoshicho.github.io
+  * I am tsuyoshicho (https://keybase.io/tsuyoshicho) on keybase.
+  * I have a public key ASAjX0bSc6DgIJY7tAO5K9O23HEczyoNs4KgB3yduJGWMgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f6ca070cd458572dd458eb287a15a894e381aa418ff07d4c57eea9d0bd0fd1e60a",
+      "host": "keybase.io",
+      "kid": "0120235f46d273a0e020963bb403b92bd3b6dc711ccf2a0db382a0077c9db89196320a",
+      "uid": "4f08f04f49d30f4ee5db6c0b5332a100",
+      "username": "tsuyoshicho"
+    },
+    "merkle_root": {
+      "ctime": 1673234259,
+      "hash": "560be9970e610884c436c44b68537941366b65e9259e6389764ab6c4039b4504042afe5e58dba5de56cbfab23bec4d366f4b5ce7d10b72098c56e4c120ca8eb0",
+      "hash_meta": "45e01185beebcfb6edf56fa14522f75b87e461c431d9d144f95e69ac84ce05d6",
+      "seqno": 23834669
+    },
+    "service": {
+      "entropy": "sLmFNVw/u6qSoTboX/Pd2zKn",
+      "hostname": "tsuyoshicho.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1673234276,
+  "expire_in": 504576000,
+  "prev": "f608ca99491f5df00f684a7a76865b4116e70e89ae3fae0a7a401d1f3c28f099",
+  "seqno": 83,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgI19G0nOg4CCWO7QDuSvTttxxHM8qDbOCoAd8nbiRljIKp3BheWxvYWTESpcCU8Qg9gjKmUkfXfAPaEp6doZbQRbnDomuP64KekAdHzwo8JnEIHQyaWVuxVGElWDNpZfi13m4+LTQTE6cxVpZNPrsYBXQAgHCo3NpZ8RAFvQxp5mxo/odm5p9jPJ1oFj0nXqdpbVL6dPY3FkHyNBYnXh3cBXYZiRH2q2p+y9ccifyWORxRtKN1ZarCORFAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIKGiwUEed56rDbASZi8lVFQmwNB7vsKei2JqnppqVXQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tsuyoshicho
+
+==================================================================
