@@ -1,4 +1,4 @@
-[![Gitter chat](https://badges.gitter.im/tsuyoshicho/tsuyoshicho.github.com.png)](https://gitter.im/tsuyoshicho/tsuyoshicho.github.com)
+[![Join the chat at https://gitter.im/tsuyoshicho/tsuyoshicho.github.io](https://badges.gitter.im/tsuyoshicho/tsuyoshicho.github.io.svg)](https://gitter.im/tsuyoshicho/tsuyoshicho.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 My Repos Link
 -------------
