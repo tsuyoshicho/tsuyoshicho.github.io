@@ -3,10 +3,18 @@
 My Repos Link
 -------------
 
-* [MikuMikuDancePortable] (http://tsuyoshicho.github.io/MikuMikuDancePortable/)
-* [CloudStickyPortable] (http://tsuyoshicho.github.io/CloudStickyPortable/)
+* [action-mypy](https://github.com/tsuyoshicho/action-mypy)
+* [action-textlint](https://github.com/tsuyoshicho/action-textlint)
+* [action-textlint](https://github.com/tsuyoshicho/action-textlint)
+
+<!--
+  Create Github pages -> using sub directory
+* [MikuMikuDancePortable](http://tsuyoshicho.github.io/MikuMikuDancePortable/)
+* [CloudStickyPortable](http://tsuyoshicho.github.io/CloudStickyPortable/)
+-->
 
 My other resource
 -----------------
-* [keybase](http://tsuyoshicho.github.io/keybase.txt)
 
+* [keybase](.well-known/keybase.txt)
+* [Nostr](.well-known/nostr.json)
